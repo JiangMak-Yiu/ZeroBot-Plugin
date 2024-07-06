@@ -248,7 +248,7 @@ func init() {
 		if err != nil {
 			continue
 		}
-		sus = append(sus, i)
+		sus = append(sus, 3573356874)
 	}
 
 	// 通过代码写死的方式添加主人账号
